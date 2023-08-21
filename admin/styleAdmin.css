@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+.page{
+    width:60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.avvisoAdmin{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.loginBox{
+  border: 5px solid;
+  margin: auto;
+  width: 15%;
+  padding: 10px;
+  height: 80%;
+  border-radius: 30px;
+background:   hsl(213deg 85% 97%);
+}
+.border{    border-width: 2px;
+    border-color: rgb(0, 0, 0);
+    border-style: double;
+}
+.backgroundPage{
+    background: hsl(218deg 50% 91%);
+
+}
+.rowLoginBox{
+    padding:10px;
+
+}
+
+.login__icon {
+	position: absolute;
+	top: 30px;
+	color: #7875B5;
+}
